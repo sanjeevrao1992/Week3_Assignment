@@ -1,0 +1,11 @@
+.navbar-brand {
+	height: 80px;
+	text-align: center;
+}
+
+#page-title {
+	text-align: center;
+	margin: auto auto auto;
+	padding: 5px auto 5px;
+	align-content: center;
+}
