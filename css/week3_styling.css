@@ -2,6 +2,15 @@
 	height: 80px;
 }
 
+.navbar-brand h1 {
+	color: red;
+}
+
+.navbar-brand a {
+	text-decoration: none;
+}
+
+
 #page-title {
 	text-align: center;
 	margin: auto auto auto;
@@ -33,11 +42,12 @@
 	vertical-align: center;
 	font-weight: bold;
 	font-size: 15px;
-	text-decoration-color: blue;
+	text-decoration-color: black;
 	padding-right: auto;
 	padding-left: auto;
 	margin-right: auto;
 	margin-left: auto;
+	font-color: black;
 }
 
 
@@ -46,6 +56,14 @@
 }
 
 .collapsable-nav li {
-	background-color: #e5e5ff;
+	background-color: white;
+}
+
+#unordered-list a {
+	text-decoration: none;
+}
+
+.navbar {
+	background-color: grey;
 }
 
